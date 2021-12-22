@@ -20,14 +20,14 @@
  
 
 .wrapper {
-    height: 120vh;
+    height: 100vh;
     display: flex;
     background-color:lightseagreen;
 }
 
 .mahjong {
     width: 650px;
-    height: 650px;
+    height: 600px;
     margin: auto;
     display: flex;
     /* flex-direction: row;
